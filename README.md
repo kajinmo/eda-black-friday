@@ -7,14 +7,14 @@
 ## Estrutura de Projeto
 ```plaintext
 eda-black-friday/
-├── code/                   # Contém os Jupyter notebooks com a análise exploratória e as perguntas do negócio
+├── code/                   # Contém o Jupyter notebook com a análise exploratória e as perguntas do negócio
 ├── data/                   # Contém as bases JSON
 ├── pyproject.toml          # Arquivo de configuração utilizado pela biblioteca uv
 └── README.md               # Esse arquivo
 ```
 
 ## Sobre o dataset
-O dataset que contém dados de vendas em um e-commerce na Black Friday, com os seguintes atributos:
+O dataset contém dados de vendas em um e-commerce na Black Friday, com os seguintes atributos:
 - 550.068 observações (compras realizadas)
 - 7 colunas:
   - usuario
@@ -26,7 +26,7 @@ O dataset que contém dados de vendas em um e-commerce na Black Friday, com os s
   - estado_civil
 
 
-## Input files:
+## Input files
 - 7 arquivos no formato json
 
 <br> 
